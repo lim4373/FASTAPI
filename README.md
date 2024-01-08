@@ -1,6 +1,7 @@
 # FastAPI
 
-* 프로젝트 전체 구조
+## 프로젝트 전체 구조
+
 ![image](https://github.com/lim4373/FASTAPI/assets/114973162/472690a1-e412-43a9-86eb-14cd1fb6bc5c)
 
 * main.py
