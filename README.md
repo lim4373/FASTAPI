@@ -9,6 +9,6 @@
 * 데이터베이스를 설정하는 database.py 파일
 * 모델을 관리하는 models.py 파일 (파이썬 데이터베이스 도구인 SQLAlchemy, mysql)
 * API를 구성하는 domain 디렉터리
- * 질문 (question)
- * 답변(answer)
- * 사용자(user)  
+  * 질문 (question)
+  * 답변(answer)
+  * 사용자(user)  
